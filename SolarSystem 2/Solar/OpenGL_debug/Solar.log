@@ -1,0 +1,8 @@
+﻿  Solar.cpp
+Solar.cpp(22): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Solar.cpp(23): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Solar.cpp(24): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Solar.cpp(37): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Solar.cpp(38): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  Solar.vcxproj -> C:\Users\ting1\documents\visual studio 2015\Projects\Solar\OpenGL_debug\Solar.exe
+  Solar.vcxproj -> C:\Users\ting1\documents\visual studio 2015\Projects\Solar\OpenGL_debug\Solar.pdb (Full PDB)
